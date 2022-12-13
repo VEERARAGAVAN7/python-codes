@@ -37,8 +37,8 @@ class family():
         print("Date Of Birth    :", self.DOB)
         print("Qualification    :",self.quality)
 
-v=family("veeraragavan Gnanambal",19,'m',"May 9th 2003","Engineer")
+v=family("veeraragavan ",17,'m',"May 10th 2005","Engineer")
 v.get_data()
 print("\n")
-v1=family("karthika",21,"F","dec 10th 2001","bsc.nutrition")
+v1=family("karthik",22,"F","dec 20th 2000","bsc.nutrition")
 v1.get_data()
