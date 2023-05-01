@@ -1,5 +1,3 @@
-PYTHON CODES 
-
-CLASS,LAMBDA,FILER,MAPPING
+Python codes about class, lambda, filter, mapping in python
 
 
