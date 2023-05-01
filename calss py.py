@@ -3,11 +3,11 @@
 
 class student():
     name    = "Veeraragavan"
-    age     = 19
+    age     = 20
     gender  = 'M'
     college = "Svct"
     dept    = "ECE"
-    CGPA    = 9.5
+    CGPA    = 8.0
 
 print(student.name) # dot.notation method
 
